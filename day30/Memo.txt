@@ -1,0 +1,9 @@
+1. 예외란 말 그대로 매우 예외적인 경우로 남발하지 않는 것이 중요하다
+
+2. json데이터는 javascript에서 사용되는 방식으로 데이터를 전송할 때 많이 사용되는 방식 중의 하나이다
+
+3. 예외에는 FileNotFound, IndexErrror, TypeError, KeyError 4가지가 있다
+
+4. 예외 포착은 try, except, else finally 4단계로 이루어져있다
+
+5. 
