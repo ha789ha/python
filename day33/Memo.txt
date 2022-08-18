@@ -1,0 +1,23 @@
+- API (Application Programming Interface)
+프로그램과 외부 시스템 사이에 있는 매개체로 시스템의 데이터를 받아올 수 있다
+
+- 엔드포인트
+데이터가 저장되있는 위치로 보통 URL이 쓰인다
+
+- API Request
+인터넷에 데이터를 요청하는것
+
+- json데이터가 인터넷 데이터 전송의 표준이 된 이유
+보기 간편하고 공백이나 들여쓰기가 거의 없으며 key, value를 보기 쉽다
+>> 따라서 이것을 언어에서 원하는 구조로 다시 만들수 있다
+
+- API Parameter
+입력한 변수에 따라 다른 데이터를 얻기 위함
+
+- HTTP 상태 코드
+1XX: Hold on
+2XX: Here you go
+3XX: Go Away(권한 없음)
+4XX: You Screwed Up(존재하지 않음, 404 Not Found가 대표적인 예)
+5XX: I Scrwed up(서버가 잘못되거나 다운)
+
