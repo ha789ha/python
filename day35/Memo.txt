@@ -1,0 +1,7 @@
+- API Authentication 
+api를 인증하는 것으로 대부분의 api는 key를 통해 이를 인증해야 한다
+모든 api는 인증하는 방법이 다르다
+
+- API Key
+
+- api는 설명서를 읽는 것이 매우 중요하다
