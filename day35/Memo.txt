@@ -5,3 +5,17 @@ api를 인증하는 것으로 대부분의 api는 key를 통해 이를 인증해
 - API Key
 
 - api는 설명서를 읽는 것이 매우 중요하다
+
+- 환경변수
+1. 편의성을 위해서
+2. 보안을 위해서
+
+ex) import os
+
+     export OWM_API_KEY=####
+     env
+     
+     api_key = os.environ.get("OWM_API_KEY")
+     
+- api 리스트
+https://apilist.fun/
